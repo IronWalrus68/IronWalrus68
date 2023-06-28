@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IronWalrus68
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Express
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me on https://linktr.ee/iwwtuk
 
